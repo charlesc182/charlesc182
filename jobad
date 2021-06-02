@@ -1,0 +1,21 @@
+using System;
+
+namespace HelloWorld
+{
+ class Program
+ {
+  static void Main(string[] args)
+  {
+   Console.WriteLine("Hello World!");   
+    Console.WriteLine(" ");
+   Console.WriteLine("I'm looking to speak with software dev's with a keen understanding of c#") ;
+    Console.WriteLine(" ") ; 
+     Console.WriteLine( "now I'll be honest... this took me way longer then it should have to figure out how to do this... so ideally you'd need a MUCH better understanding of c# than I do") ; 
+    Console.WriteLine(" maybe another 2 years on top of my 20 minutes...") ; 
+     Console.WriteLine(" so if you've made it this far and haven't noticed that my code is broken then this isn't for you, "); 
+      Console.WriteLine(" but if you did... and you think it's time for a new challenge then it might be worth us having a chat, ") '
+      
+      Console.WriteLine(" so if you want to know more about the roles I'm currently working on, (or simply correct the monstrosity that is my coding) ") ; 
+         Console.WriteLine(" then slide into the dm's with the corrected formula and we can talk through the roles in more detail" ); 
+  }
+ }

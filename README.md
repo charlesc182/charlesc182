@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlesc182
-- 👀 I’m interested in ... Recruitment
-- 🌱 I’m currently learning ...c#
+- 👀 I’m interested in ... learning to code 
+- 🌱 I’m currently learning ...c# 
 - 💞️ I’m looking to collaborate on ... basic coding 
 - 📫 How to reach me ... charles.coultas@transtion-partners.co.uk
 
